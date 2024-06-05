@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanop001018&label=Profile%20views&color=0e75b6&style=flat" alt="karanop001018" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanop001018" alt="karanop001018" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=karanop001018](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai)" alt="karanop001018" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/karanpatel1404" target="blank"><img src="https://img.shields.io/twitter/follow/karanpatel1404?logo=twitter&style=for-the-badge" alt="karanpatel1404" /></a> </p>
 
