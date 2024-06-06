@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Karan Patel</h1>
 <h3 align="center"> CSE Student | Exploring the world of code | Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karanop001018&theme=cyberpunk&label=Profile%20views&color=0e75b6&style=neonglow" alt="karanop001018" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karanop001018&label=Profile%20views&color=0e75b6&style=flat" alt="karanop001018" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanop001018&theme=radical" alt="karanop001018" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/karanpatel1404" target="blank"><img src="https://img.shields.io/twitter/follow/karanpatel1404?logo=twitter&style=for-the-badge" alt="karanpatel1404" /></a> </p>
+<p align="left"> <a href="https://twitter.com/karanpatel1404" target="blank"><img src="https://img.shields.io/twitter/follow/karanpatel1404?logo=twitter&theme=cyberpunk&style=flat" alt="karanpatel1404" /></a> </p>
 
 - 🌱 I’m currently learning **FullStack**
 
