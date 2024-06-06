@@ -35,3 +35,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanop001018&" alt="karanop001018" /></p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karanop001018&theme=transparent)](https://git.io/streak-stats)
+
