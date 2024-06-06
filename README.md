@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://twitter.com/KaranPatel1404" target="blank"><img src="https://img.shields.io/twitter/follow/KaranPatel1404?logo=twitter&style=square" alt="KaranPatel1404" /></a> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/karan-patel-16700a215" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=square" alt="karan-patel-16700a215" /></a> </p>
+<p align="left"> <a href="https://public.tableau.com/profile/karan.patel3150" target="blank"><img src="https://img.shields.io/badge/-Tableau%20Public-blue?style=square&logo=Tableau" alt="karan.patel3150" /></a> </p>
 
 
 - 🌱 I’m currently learning **FullStack**
