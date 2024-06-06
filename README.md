@@ -33,7 +33,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanop001018&show_icons=true&locale=en" alt="karanop001018" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanop001018&" alt="karanop001018" /></p>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karanop001018&theme=transparent)](https://git.io/streak-stats)
 
