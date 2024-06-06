@@ -31,7 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanop001018&show_icons=true&locale=en&layout=compact" alt="karanop001018" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanop001018&show_icons=true&locale=en" alt="karanop001018" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanop001018&theme=radical&show_icons=true&locale=en" alt="karanop001018" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karanop001018&theme=transparent)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karanop001018&theme=radical)](https://git.io/streak-stats)
