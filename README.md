@@ -39,3 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanop001018&theme=radical&show_icons=true&locale=en" alt="karanop001018" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karanop001018&theme=radical)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=karanop001018&theme=youtube-dark" alt="GitHub Streak" /></a>
