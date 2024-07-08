@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://public.tableau.com/profile/karan.patel3150" target="blank"><img src="https://img.shields.io/badge/-Tableau%20Public-blue?style=square&logo=Tableau" alt="karan.patel3150" /></a> </p>
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERNStack**
 
 - 💬 Ask me about **Python, Data Visualization, PowerBI, Tableau**
 
