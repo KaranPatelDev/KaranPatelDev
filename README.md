@@ -40,4 +40,4 @@
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karanop001018&theme=radical)](https://git.io/streak-stats) -->
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=karanop001018&theme=youtube-dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=karanop001018&theme=radical" alt="GitHub Streak" /></a>
