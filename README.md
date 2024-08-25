@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan Patel</h1>
-<h3 align="center"> “ 3rd Year B.Tech Student | Python & Web Developer | MERN Stack Enthusiast”</h3>
+<h3 align="center"> “ 3rd Year B.Tech Student | Python & Web Developer | MERN Stack Enthusiast | Aspiring Data Science”</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanop001018&label=Profile%20views&color=0e75b6&style=flat" alt="karanop001018" /> </p><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanop001018&theme=radical" alt="karanop001018" /></a> </p><p align="left"> <a href="https://twitter.com/KaranPatel1404" target="blank"><img src="https://img.shields.io/twitter/follow/KaranPatel1404?logo=twitter&style=square" alt="KaranPatel1404" /></a> </p>
 
