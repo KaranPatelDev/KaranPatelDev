@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karan Patel</h1>
 <h3 align="center"> “3rd Year B.Tech Student | Python & Web Developer | MERN Stack Enthusiast | Future Data Scientist”</h3>
-<img src="[https://example.com/animation.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" alt="My GIF">
+![giphy (1)](https://github.com/user-attachments/assets/6215af25-1718-43ab-81e8-2e63663efbec)
+
+
 <p align="left"> <a href="https://www.linkedin.com/in/karan-patel-16700a215" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=square" alt="karan-patel-16700a215" /></a> </p>
 <p align="left"> <a href="https://public.tableau.com/profile/karan.patel3150" target="blank"><img src="https://img.shields.io/badge/-Tableau%20Public-blue?style=square&logo=Tableau" alt="karan.patel3150" /></a> </p>
 
