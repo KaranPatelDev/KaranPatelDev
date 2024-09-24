@@ -3,6 +3,9 @@
 
 <img src="https://github.com/user-attachments/assets/a96b7322-681f-4c0d-afca-605e9c86ce83" alt="devdi" width="600" height="400">
 
+Check out my Holopin badges:
+
+[![!@karanpatel14's Holopin board](https://holopin.io/api/user/board?user=rphi)))](https://holopin.io/@karanpatel14)
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF" align="center" width="400"/>
 
