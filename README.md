@@ -5,7 +5,6 @@
 
 Check out my Holopin badges:
 
-[![!@karanpatel14's Holopin board](https://holopin.io/api/user/board?user=karanpatel14)))](https://holopin.io/@karanpatel14)
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF" align="center" width="400"/>
 
