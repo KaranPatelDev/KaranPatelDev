@@ -45,10 +45,10 @@ Check out my Holopin badges:
 <!--<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> -->
 <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanop001018&theme=radical&show_icons=true&locale=en&layout=compact" alt="karanop001018" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KaranPatelDev&theme=radical&show_icons=true&locale=en&layout=compact" alt="KaranPatelDev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanop001018&theme=radical&show_icons=true&locale=en" alt="karanop001018" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KaranPatelDev&theme=radical&show_icons=true&locale=en" alt="KaranPatelDev" /></p>
 
-<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karanop001018&theme=radical)](https://git.io/streak-stats) -->
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KaranPatelDev&theme=radical)](https://git.io/streak-stats) -->
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=karanop001018&theme=radical" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KaranPatelDev&theme=radical" alt="GitHub Streak" /></a>
