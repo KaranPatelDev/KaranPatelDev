@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karan Patel</h1>
 <h3 align="center"> “3rd Year B.Tech Student | Python & Web Developer | Data Analyst | MERN Stack Enthusiast”</h3>
 
-<img src="https://github.com/user-attachments/assets/a96b7322-681f-4c0d-afca-605e9c86ce83" alt="devdi" width="600" height="400">
-
 Check out my Holopin badges:
 [![!@karanpatel14's Holopin board](https://holopin.io/api/user/board?user=karanpatel14)](https://holopin.io/@karanpatel14)
 
