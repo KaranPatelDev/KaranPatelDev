@@ -50,4 +50,8 @@ Check out my Holopin badges:
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KaranPatelDev&theme=radical)](https://git.io/streak-stats) -->
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KaranPatelDev&theme=radical" alt="GitHub Streak" /></a>
+[![karanop001018's GitHub | Stats](https://stats.quira.sh/karanop001018/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=karanop001018)
+<br>
+[![karanop001018's GitHub | Languages Over Time](https://stats.quira.sh/karanop001018/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=karanop001018)
+<br>
+[![karanop001018's GitHub | Topics Over Time](https://stats.quira.sh/karanop001018/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=karanop001018)
