@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64">
+<defs>
+  <linearGradient id="fire" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7F1D1D"/><stop offset="0.5" stop-color="#FF6A00"/><stop offset="1" stop-color="#FFB347"/>
+  </linearGradient>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0d1117"/><stop offset="0.55" stop-color="#1a0f1f"/><stop offset="1" stop-color="#2a0f0f"/>
+  </linearGradient>
+  <radialGradient id="sh" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#ff3b30"/><stop offset="0.7" stop-color="#b3120d"/><stop offset="1" stop-color="#5a0805"/>
+  </radialGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>.q{font:italic 600 16px 'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',monospace;fill:#E6EDF3}.a{font:700 11px 'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',monospace;fill:#FF8A3D;letter-spacing:3px}</style>
+<rect x="1" y="1" width="898" height="62" rx="12" fill="url(#bg)" stroke="#30363d"/>
+<rect x="0" y="16" width="5" height="32" fill="url(#fire)"><animate attributeName="height" values="12;32;12" dur="3s" repeatCount="indefinite"/><animate attributeName="y" values="26;16;26" dur="3s" repeatCount="indefinite"/></rect>
+<text x="450" y="28" class="q" text-anchor="middle">“A shinobi's job is to endure.”  ·  “If you don't like your destiny, don't accept it.”</text>
+<text x="450" y="48" class="a" text-anchor="middle">— NARUTO UZUMAKI —</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="56" viewBox="0 0 250 56">
+<defs>
+  <linearGradient id="fire" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7F1D1D"/><stop offset="0.5" stop-color="#FF6A00"/><stop offset="1" stop-color="#FFB347"/>
+  </linearGradient>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0d1117"/><stop offset="0.55" stop-color="#1a0f1f"/><stop offset="1" stop-color="#2a0f0f"/>
+  </linearGradient>
+  <radialGradient id="sh" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#ff3b30"/><stop offset="0.7" stop-color="#b3120d"/><stop offset="1" stop-color="#5a0805"/>
+  </radialGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>.kj{font:900 22px 'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',monospace;fill:#FF6A00}.n{font:800 14px 'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',monospace;fill:#fff;letter-spacing:1px}.s{font:600 10px 'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',monospace;fill:#FF6A00;letter-spacing:2.5px}</style>
+<rect x="1" y="1" width="248" height="54" rx="10" fill="url(#bg)" stroke="#30363d"/>
+<rect x="1" y="1" width="248" height="54" rx="10" fill="none" stroke="#FF6A00" stroke-width="2" stroke-dasharray="60 600"><animate attributeName="stroke-dashoffset" from="0" to="-660" dur="4.0s" repeatCount="indefinite"/></rect>
+<rect x="8" y="8" width="40" height="40" rx="8" fill="#FF6A00" opacity=".15"><animate attributeName="opacity" values=".1;.3;.1" dur="3s" repeatCount="indefinite"/></rect>
+<text x="28" y="35" class="kj" text-anchor="middle" style="font-size:17px">忍術</text>
+<text x="60" y="26" class="n">NINJUTSU</text><text x="60" y="43" class="s">LANGUAGES</text>
+<rect x="60" y="48" width="20" height="2" fill="#FF6A00"><animate attributeName="width" values="20;174;20" dur="4s" repeatCount="indefinite"/></rect>
+</svg>

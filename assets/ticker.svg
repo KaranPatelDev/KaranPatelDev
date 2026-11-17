@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="36" viewBox="0 0 900 36">
+<style>.t{font:700 14px 'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',monospace;fill:#FF8A3D;letter-spacing:3px}</style>
+<defs><clipPath id="c"><rect width="900" height="36" rx="8"/></clipPath></defs>
+<rect width="900" height="36" rx="8" fill="#0d1117" stroke="#30363d"/>
+<g clip-path="url(#c)"><g>
+<animateTransform attributeName="transform" type="translate" from="0 0" to="-1500 0" dur="26s" repeatCount="indefinite"/>
+<text x="0" y="23" class="t" xml:space="preserve">PYTHON  ✦  FASTAPI  ✦  DJANGO  ✦  SQL  ✦  CLICKHOUSE  ✦  MONGODB  ✦  DOCKER  ✦  AI AGENTS  ✦  VOICE AI  ✦  LLM APPS  ✦  REST APIs  ✦  </text>
+<text x="1500" y="23" class="t" xml:space="preserve">PYTHON  ✦  FASTAPI  ✦  DJANGO  ✦  SQL  ✦  CLICKHOUSE  ✦  MONGODB  ✦  DOCKER  ✦  AI AGENTS  ✦  VOICE AI  ✦  LLM APPS  ✦  REST APIs  ✦  </text>
+<text x="3000" y="23" class="t" xml:space="preserve">PYTHON  ✦  FASTAPI  ✦  DJANGO  ✦  SQL  ✦  CLICKHOUSE  ✦  MONGODB  ✦  DOCKER  ✦  AI AGENTS  ✦  VOICE AI  ✦  LLM APPS  ✦  REST APIs  ✦  </text>
+</g></g>
+</svg>

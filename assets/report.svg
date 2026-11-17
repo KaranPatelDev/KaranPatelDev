@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="270" viewBox="0 0 900 270">
+<defs>
+  <linearGradient id="fire" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7F1D1D"/><stop offset="0.5" stop-color="#FF6A00"/><stop offset="1" stop-color="#FFB347"/>
+  </linearGradient>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0d1117"/><stop offset="0.55" stop-color="#1a0f1f"/><stop offset="1" stop-color="#2a0f0f"/>
+  </linearGradient>
+  <radialGradient id="sh" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#ff3b30"/><stop offset="0.7" stop-color="#b3120d"/><stop offset="1" stop-color="#5a0805"/>
+  </radialGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs><defs><linearGradient id="scanG" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF6A00" stop-opacity="0"/><stop offset="1" stop-color="#FF6A00" stop-opacity=".5"/></linearGradient><pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+<path d="M30 0H0V30" fill="none" stroke="#FF6A00" stroke-opacity=".08" stroke-width="1"/>
+<animateTransform attributeName="patternTransform" type="translate" from="0 0" to="30 30" dur="4s" repeatCount="indefinite"/></pattern></defs>
+<style>.big{font:900 40px 'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',monospace}.k{font:700 10px 'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',monospace;fill:#9DA7B3;letter-spacing:3px}.l{font:600 12px 'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',monospace;fill:#E6EDF3}.h{font:700 11px 'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',monospace;fill:#FF8A3D;letter-spacing:3px}</style>
+<defs><clipPath id="cr"><rect width="900" height="270" rx="16"/></clipPath><clipPath id="cb"><rect x="20" y="150" width="860" height="16" rx="8"/></clipPath></defs>
+<g clip-path="url(#cr)"><rect width="900" height="270" fill="url(#bg)"/><rect width="900" height="270" fill="url(#grid)"/>
+<g><rect x="20.0" y="18" width="204.5" height="86" rx="10" fill="#0d1117" stroke="#FF6A00" stroke-opacity=".5"/>
+<rect x="20.0" y="18" width="204.5" height="3" rx="1.5" fill="#FF6A00"><animate attributeName="opacity" values=".2;1;.2" dur="2.5s" repeatCount="indefinite"/></rect>
+<text x="122.25" y="68" class="big" text-anchor="middle" style="fill:#FF6A00">83</text>
+<text x="122.25" y="91" class="k" text-anchor="middle">REPOSITORIES</text></g><g><rect x="238.5" y="18" width="204.5" height="86" rx="10" fill="#0d1117" stroke="#38BDF8" stroke-opacity=".5"/>
+<rect x="238.5" y="18" width="204.5" height="3" rx="1.5" fill="#38BDF8"><animate attributeName="opacity" values=".2;1;.2" dur="2.9s" repeatCount="indefinite"/></rect>
+<text x="340.75" y="68" class="big" text-anchor="middle" style="fill:#38BDF8">36</text>
+<text x="340.75" y="91" class="k" text-anchor="middle">FOLLOWERS</text></g><g><rect x="457.0" y="18" width="204.5" height="86" rx="10" fill="#0d1117" stroke="#FACC15" stroke-opacity=".5"/>
+<rect x="457.0" y="18" width="204.5" height="3" rx="1.5" fill="#FACC15"><animate attributeName="opacity" values=".2;1;.2" dur="3.3s" repeatCount="indefinite"/></rect>
+<text x="559.25" y="68" class="big" text-anchor="middle" style="fill:#FACC15">21</text>
+<text x="559.25" y="91" class="k" text-anchor="middle">STARS EARNED</text></g><g><rect x="675.5" y="18" width="204.5" height="86" rx="10" fill="#0d1117" stroke="#34D399" stroke-opacity=".5"/>
+<rect x="675.5" y="18" width="204.5" height="3" rx="1.5" fill="#34D399"><animate attributeName="opacity" values=".2;1;.2" dur="3.7s" repeatCount="indefinite"/></rect>
+<text x="777.75" y="68" class="big" text-anchor="middle" style="fill:#34D399">5</text>
+<text x="777.75" y="91" class="k" text-anchor="middle">YEARS ACTIVE</text></g>
+<text x="20" y="137" class="h">// LANGUAGE CHAKRA · ORIGINAL REPOS</text>
+<g clip-path="url(#cb)"><rect x="20.0" y="150" width="281.5" height="16" fill="#3776AB" opacity=".95"><animate attributeName="opacity" values=".55;1;.55" dur="3.0s" repeatCount="indefinite"/></rect><rect x="301.5" y="150" width="218.9" height="16" fill="#F7DF1E" opacity=".95"><animate attributeName="opacity" values=".55;1;.55" dur="3.5s" repeatCount="indefinite"/></rect><rect x="520.4" y="150" width="156.4" height="16" fill="#38BDF8" opacity=".95"><animate attributeName="opacity" values=".55;1;.55" dur="4.0s" repeatCount="indefinite"/></rect><rect x="676.7" y="150" width="93.8" height="16" fill="#F37726" opacity=".95"><animate attributeName="opacity" values=".55;1;.55" dur="4.5s" repeatCount="indefinite"/></rect><rect x="770.5" y="150" width="62.5" height="16" fill="#E34F26" opacity=".95"><animate attributeName="opacity" values=".55;1;.55" dur="5.0s" repeatCount="indefinite"/></rect><rect x="833.1" y="150" width="46.9" height="16" fill="#9DA7B3" opacity=".95"><animate attributeName="opacity" values=".55;1;.55" dur="5.5s" repeatCount="indefinite"/></rect></g>
+<circle cx="26" cy="192" r="5" fill="#3776AB"/><text x="40" y="196" class="l">Python</text><text x="280" y="196" class="l" text-anchor="end" style="fill:#9DA7B3">18 repos</text><circle cx="316" cy="192" r="5" fill="#F7DF1E"/><text x="330" y="196" class="l">JavaScript</text><text x="570" y="196" class="l" text-anchor="end" style="fill:#9DA7B3">14 repos</text><circle cx="606" cy="192" r="5" fill="#38BDF8"/><text x="620" y="196" class="l">TypeScript</text><text x="860" y="196" class="l" text-anchor="end" style="fill:#9DA7B3">10 repos</text><circle cx="26" cy="218" r="5" fill="#F37726"/><text x="40" y="222" class="l">Jupyter</text><text x="280" y="222" class="l" text-anchor="end" style="fill:#9DA7B3">6 repos</text><circle cx="316" cy="218" r="5" fill="#E34F26"/><text x="330" y="222" class="l">HTML</text><text x="570" y="222" class="l" text-anchor="end" style="fill:#9DA7B3">4 repos</text><circle cx="606" cy="218" r="5" fill="#9DA7B3"/><text x="620" y="222" class="l">Other</text><text x="860" y="222" class="l" text-anchor="end" style="fill:#9DA7B3">3 repos</text>
+<rect width="900" height="26" fill="url(#scanG)" opacity=".55"><animate attributeName="y" values="-26;270" dur="8s" repeatCount="indefinite"/></rect></g>
+<rect x="1" y="1" width="898" height="268" rx="16" fill="none" stroke="#30363d"/><path d="M6 20V6H20M880 6H894V20M6 250V264H20M880 264H894V250" fill="none" stroke="#FFB347" stroke-width="2"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/></path>
+</svg>
