@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="290" height="104" viewBox="0 0 290 104">
+<defs>
+  <linearGradient id="fire" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7F1D1D"/><stop offset="0.5" stop-color="#FF6A00"/><stop offset="1" stop-color="#FFB347"/>
+  </linearGradient>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0d1117"/><stop offset="0.55" stop-color="#1a0f1f"/><stop offset="1" stop-color="#2a0f0f"/>
+  </linearGradient>
+  <radialGradient id="sh" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#ff3b30"/><stop offset="0.7" stop-color="#b3120d"/><stop offset="1" stop-color="#5a0805"/>
+  </radialGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>.n{font:800 14px 'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',monospace;fill:#fff;letter-spacing:.5px}.d{font:500 11px 'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',monospace;fill:#9DA7B3}.g{font:700 10px 'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',monospace;fill:#38BDF8;letter-spacing:2px}.r{font:900 22px 'JetBrains Mono','Cascadia Code',Consolas,'SF Mono',monospace;fill:#fff}</style>
+<rect x="1.5" y="1.5" width="287" height="101" rx="12" fill="url(#bg)"/>
+<rect x="1.5" y="1.5" width="287" height="101" rx="12" fill="none" stroke="#30363d"/>
+<rect x="1.5" y="1.5" width="287" height="101" rx="12" fill="none" stroke="#38BDF8" stroke-width="2" stroke-dasharray="90 800"><animate attributeName="stroke-dashoffset" from="0" to="-890" dur="9.2s" repeatCount="indefinite"/></rect>
+<circle cx="256" cy="34" r="19" fill="#38BDF8" opacity=".18"><animate attributeName="r" values="17;21;17" dur="3s" repeatCount="indefinite"/></circle>
+<text x="256" y="42" class="r" text-anchor="middle">B</text>
+<text x="18" y="32" class="g">RANK B · AI ASSISTANT</text>
+<text x="18" y="58" class="n">MAILMATE</text>
+<text x="18" y="80" class="d">Gemini-powered email reply writer</text>
+<rect x="18" y="90" width="40" height="3" rx="1.5" fill="#38BDF8"><animate attributeName="width" values="40;254;40" dur="5s" repeatCount="indefinite"/></rect>
+</svg>

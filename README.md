@@ -78,6 +78,8 @@ I turn ideas into practical software, reliable backend systems, and AI-powered p
 <a href="https://pay-guard-ai-ten.vercel.app/"><img src="assets/m-pay.svg" width="32%" alt="PayGuardAI"/></a>
 <a href="https://dev-interviewer.lovable.app/"><img src="assets/m-dev.svg" width="32%" alt="Dev Interviewer"/></a>
 <a href="https://rapid-code-insight.lovable.app/"><img src="assets/m-rapid.svg" width="32%" alt="Rapid Code Insight"/></a>
+<a href="https://github.com/KaranPatelDev/Mailmate"><img src="assets/m-mail.svg" width="32%" alt="MailMate"/></a>
+<a href="https://kpd-model-to-classify-waste-into-different-categories.streamlit.app/"><img src="assets/m-waste.svg" width="32%" alt="Waste Classifier"/></a>
 
 <sub>Click a card to open the live project</sub>
 
