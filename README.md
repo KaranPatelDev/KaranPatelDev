@@ -1,114 +1,250 @@
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+from pathlib import Path
 
-###
+readme = r'''<div align="center">
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/karan-patel-16700a215/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
-  </a>
-  <a href="https://x.com/KaranPatel1404" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25" />
-  </a>
-  <a href="mailto:mpkaranpatel001018@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
-  </a>
-  <a href="https://linktr.ee/karan_tec" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" height="25" />
-  </a>
-</div>
+<!-- Naruto-inspired profile README for Karan Patel -->
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D14,35:7F1D1D,70:F97316,100:0B0D14&height=220&section=header&text=KARAN%20PATEL&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20BACKEND%20ENGINEER%20%7C%20AI%20BUILDER&descSize=14&descAlignY=59&animation=fadeIn" alt="Karan Patel — Naruto-inspired developer banner" width="100%" />
 
-<h1 align="center">Hey there 👋, I'm Karan Patel</h1>
-<h3 align="center">🚀 Backend Developer | 📊 Data Analyst | 🤖 AI/ML Explorer | 🌐 Full-Stack Enthusiast</h3>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=800&color=FF6B35&center=true&vCenter=true&width=700&lines=KONNICHIWA%2C+WORLD!+%F0%9F%8D%83;Turning+ideas+into+working+software;Building+APIs%2C+AI+agents%2C+and+web+apps;Believe+it.+Build+it.+Ship+it." alt="Animated developer tagline" />
 
-### 👨‍💻 About Me  
+<br/>
 
-💡 I’m a **Backend Developer**, **Data Analyst**, **AI/ML Explorer**, and **Full-Stack Enthusiast** who loves building scalable applications, analyzing data, and experimenting with new technologies.  
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://karanpateldev.indevs.in/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-patel-16700a215/)
+[![GitHub](https://img.shields.io/badge/GITHUB-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaranPatelDev)
+[![X](https://img.shields.io/badge/FOLLOW_ON_X-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KaranPatel1404)
 
-✨ Always curious, always learning!  
+<img src="https://komarev.com/ghpvc/?username=KaranPatelDev&style=flat-square&color=F97316&label=PROFILE+VISITORS" alt="Profile visitor counter" />
 
----
-
-### 🛠️ Tech Stack  
-
-**Backend & Databases**  
-🐍 Python • Node.js • Express.js • Django • Flask • MySQL • MongoDB • Redis  
-
-**AI / ML & Data**  
-📊 Pandas • NumPy • Scikit-learn • TensorFlow • OpenCV • Matplotlib  
-
-**Frontend & Design**  
-⚡ HTML • CSS • JavaScript • React • TailwindCSS 
-
-**Tools & DevOps**  
-🐳 Docker • Git/GitHub/GitLab • NPM • Postman • VS Code • PyCharm • Swagger
-
----
-
-### 🛠 Languages and Tools  
-
-<div align="center">
-  <a href="https://www.anaconda.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css"/></a>
-  <a href="https://devicon.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="40" alt="devicon"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"/></a>
-  <a href="https://eslint.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/></a>
-  <a href="https://about.gitlab.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/></a>
-  <a href="https://www.jetbrains.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains"/></a>
-  <a href="https://www.kaggle.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle"/></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter"/></a>
-  <a href="https://www.markdownguide.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs"/></a>
-  <a href="https://www.npmjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas"/></a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/></a>
-  <a href="https://redis.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis"/></a>
-  <a href="https://socket.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio"/></a>
-  <a href="https://threejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode"/></a>
-  <a href="https://yarnpkg.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn"/></a>
 </div>
 
 ---
 
-### 🔥 My Stats  
+## 🍥 THE SHINOBI PROFILE
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### Hey there, I'm Karan Patel 👋
+
+I'm a developer who enjoys building practical software — from reliable backend services and APIs to full-stack applications and AI-powered experiences.
+
+- 🧩 **Core focus:** Python, backend engineering, APIs, and databases
+- 🤖 **Exploring:** AI agents, voice AI, and LLM-powered applications
+- 🌐 **Also build with:** React, JavaScript, and modern web technologies
+- ⚙️ **Engineering interests:** scalable services, clean integrations, and solving real problems
+- 🌱 **Mindset:** learn continuously, build deliberately, improve every day
+
+> **忍道 — My way of the code:** Stay curious, keep training, and turn every challenge into progress.
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" alt="Animated waving character" />
+
+<br/>
+
+**SHINOBI RANK**  
+`DEVELOPER IN TRAINING`
+
+<br/>
+
+*Believe it. Build it. Ship it.*
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚔️ TOOLS I FIGHT WITH
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KaranPatelDev&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=KaranPatelDev&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranPatelDev&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+### 🌀 Languages
+<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,bash&theme=dark" alt="Python, JavaScript, HTML, CSS, C++, and Bash" />
+
+### 🛠️ Backend & APIs
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express&theme=dark" alt="FastAPI, Django, Flask, Node.js, and Express" />
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" alt="React and Tailwind CSS" />
+
+### 🗄️ Databases & Data
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite&theme=dark" alt="MySQL, MongoDB, Redis, and SQLite" />
+<br/>
+<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
+
+### 🤖 AI, Data & Computer Vision
+<img src="https://skillicons.dev/icons?i=opencv,anaconda,jupyter&theme=dark" alt="OpenCV, Anaconda, and Jupyter" />
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+
+### 🚀 DevOps & Developer Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,postman,figma&theme=dark" alt="Docker, Git, GitHub, GitLab, VS Code, Postman, and Figma" />
+
 </div>
 
 ---
 
-### 📈 GitHub Activity Graph  
-[![Karan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaranPatelDev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
----
+## 📊 STATS FROM THE FIELD
+
 <div align="center">
-  <h3>🐍 Snake Animation 🐍</h3>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="150" alt="snake-animation"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KaranPatelDev&show_icons=true&hide_border=true&bg_color=0B0D14&title_color=FF6B35&icon_color=38BDF8&text_color=E5E7EB&rank_icon=github" alt="GitHub statistics for Karan Patel" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranPatelDev&layout=compact&hide_border=true&bg_color=0B0D14&title_color=FF6B35&text_color=E5E7EB" alt="Most used languages in public repositories" />
 </div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=KaranPatelDev&hide_border=true&background=0B0D14&ring=FF6B35&fire=F97316&currStreakLabel=FF6B35&sideLabels=E5E7EB&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
+</div>
+
+> Stats are provided by third-party services and may occasionally be unavailable or delayed. Language cards reflect the repositories those services can access, not a complete measure of skill.
+
+---
+
+## 🏯 MY SHINOBI JOURNEY
+
+<div align="center">
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaranPatelDev&bg_color=0B0D14&color=E5E7EB&line=F97316&point=38BDF8&area=true&hide_border=true)](https://github.com/KaranPatelDev)
+
+*Every commit is another training session. Every project is another mission.*
+
+</div>
+
+---
+
+## 🎯 MISSIONS COMPLETED
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🟠 D&D Purchase
+A live purchase platform built for real-world buyer and seller workflows.
+
+**Mission focus:** Full-stack web development
+
+[🌐 Visit live project](https://www.dndpurchase.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔥 AI Calling Agent
+A deployed AI calling-agent project exploring voice-based automation.
+
+**Mission focus:** AI agents and voice workflows
+
+[🌐 Visit live project](https://ai-calling-agent-five.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌿 Twick
+A Django-based web application.
+
+**Mission focus:** Python and web application development
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 AI Product Manager
+An AI-focused product experience.
+
+**Mission focus:** AI-powered application development
+
+[🌐 Explore project](https://aipm-one.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ PayGuardAI
+An AI-oriented project exploring a product-focused web experience.
+
+**Mission focus:** AI and application development
+
+[🌐 Explore project](https://pay-guard-ai-ten.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Dev Interviewer
+A developer interview-focused application.
+
+**Mission focus:** Developer tools
+
+[🌐 Explore project](https://dev-interviewer.lovable.app/)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### ⚡ Rapid Code Insight
+A project focused on code-related insights.
+
+[🌐 Explore project](https://rapid-code-insight.lovable.app/)
+
+</td>
+</tr>
+</table>
+
+<sub>Project descriptions are intentionally concise. Visit each live project for its current features; source-code links can be added when the corresponding repositories are confirmed.</sub>
+
+---
+
+## 🧭 MY DEVELOPER ARSENAL
+
+<div align="center">
+
+| Area | Focus |
+|:--|:--|
+| **Backend Engineering** | Python, FastAPI, Django, REST APIs |
+| **Data & Persistence** | MySQL, MongoDB, ClickHouse, SQL |
+| **Frontend Development** | React, JavaScript, HTML, CSS, Tailwind CSS |
+| **AI & Automation** | AI agents, voice AI, LLM applications, computer vision |
+| **Tools & Delivery** | Docker, Git, GitHub, Postman |
+
+</div>
+
+---
+
+## 🤝 LET'S BUILD SOMETHING LEGENDARY
+
+<div align="center">
+
+Interested in software engineering, backend systems, full-stack development, or AI-powered products? Let's connect and build something useful.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://karanpateldev.indevs.in/)
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-patel-16700a215/)
+[![GitHub](https://img.shields.io/badge/CHECK_MY_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaranPatelDev)
+[![X](https://img.shields.io/badge/FIND_ME_ON_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KaranPatel1404)
+[![Email](https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mpkaranpatel001018@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D14,45:F97316,75:7F1D1D,100:0B0D14&height=120&section=footer" width="100%" alt="Orange and dark anime-inspired footer banner" />
+
+**「Hard work is the path. Curiosity is the chakra. Code is the craft.」**
+
+<sub>Built with ☕, Python, and a little shinobi spirit.</sub>
+
+</div>
+'''
+
+path = Path("/mnt/data/README.md")
+path.write_text(readme, encoding="utf-8")
+print(f"Created {path} ({len(readme.splitlines())} lines, {path.stat().st_size} bytes).")
