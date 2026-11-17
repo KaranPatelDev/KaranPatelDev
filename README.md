@@ -79,7 +79,7 @@ I turn ideas into practical software, reliable backend systems, and AI-powered p
 <a href="https://dev-interviewer.lovable.app/"><img src="assets/m-dev.svg" width="32%" alt="Dev Interviewer"/></a>
 <a href="https://rapid-code-insight.lovable.app/"><img src="assets/m-rapid.svg" width="32%" alt="Rapid Code Insight"/></a>
 
-<sub>Click a card to open the live project · <a href="https://github.com/KaranPatelDev/AI-Product-Manager">AI Product Manager source</a></sub>
+<sub>Click a card to open the live project</sub>
 
 </div>
 
