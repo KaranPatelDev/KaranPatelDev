@@ -2,147 +2,168 @@ from pathlib import Path
 
 readme = r'''<div align="center">
 
-<!-- Naruto-inspired profile README for Karan Patel -->
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D14,35:7F1D1D,70:F97316,100:0B0D14&height=220&section=header&text=KARAN%20PATEL&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20BACKEND%20ENGINEER%20%7C%20AI%20BUILDER&descSize=14&descAlignY=59&animation=fadeIn" alt="Karan Patel — Naruto-inspired developer banner" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:080B14,25:25102B,55:7F1D1D,78:F97316,100:080B14&text=KARAN%20PATEL&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20BACKEND%20ENGINEER%20%7C%20AI%20BUILDER&descSize=13&descAlignY=59&animation=fadeIn&stroke=F97316&strokeWidth=1" alt="Karan Patel — shinobi developer profile banner"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=800&color=FF6B35&center=true&vCenter=true&width=700&lines=KONNICHIWA%2C+WORLD!+%F0%9F%8D%83;Turning+ideas+into+working+software;Building+APIs%2C+AI+agents%2C+and+web+apps;Believe+it.+Build+it.+Ship+it." alt="Animated developer tagline" />
+<img src="https://raw.githubusercontent.com/vietnh1009/Naruto/main/naruto.gif" width="240" alt="Naruto anime animation"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://karanpateldev.indevs.in/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-patel-16700a215/)
-[![GitHub](https://img.shields.io/badge/GITHUB-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaranPatelDev)
-[![X](https://img.shields.io/badge/FOLLOW_ON_X-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KaranPatel1404)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2600&pause=700&color=FF7A30&center=true&vCenter=true&repeat=true&width=760&height=45&lines=%E3%80%8CKONNICHIWA%2C+WORLD!%E3%80%8D;Building+reliable+backends+and+useful+products;Python+%7C+APIs+%7C+Databases+%7C+AI;Train.+Build.+Ship.+Repeat." alt="Animated developer tagline"/>
 
-<img src="https://komarev.com/ghpvc/?username=KaranPatelDev&style=flat-square&color=F97316&label=PROFILE+VISITORS" alt="Profile visitor counter" />
+<br/>
+
+<a href="https://karanpateldev.indevs.in/"><img src="https://img.shields.io/badge/PORTFOLIO-FF7A30?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/karan-patel-16700a215/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/KaranPatelDev"><img src="https://img.shields.io/badge/GITHUB-171923?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://x.com/KaranPatel1404"><img src="https://img.shields.io/badge/FOLLOW_ON_X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=KaranPatelDev&label=PROFILE%20VISITORS&color=F97316&style=for-the-badge" alt="Profile visitor counter"/>
 
 </div>
 
 ---
 
-## 🍥 THE SHINOBI PROFILE
+<!-- ═══════════════════════ NAVIGATION ═══════════════════════ -->
+
+<div align="center">
+
+`01` [THE SHINOBI](#-01--the-shinobi) ·
+`02` [ARSENAL](#-02--my-shinobi-arsenal) ·
+`03` [FIELD REPORT](#-03--stats-from-the-field) ·
+`04` [MISSIONS](#-04--featured-missions) ·
+`05` [JOURNEY](#-05--my-shinobi-journey) ·
+`06` [CONNECT](#-06--rendezvous-at-konoha)
+
+</div>
+
+---
+
+## 🍥 01 / THE SHINOBI
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td valign="top" width="64%">
 
-### Hey there, I'm Karan Patel 👋
+### Hey, I'm Karan Patel 👋
 
-I'm a developer who enjoys building practical software — from reliable backend services and APIs to full-stack applications and AI-powered experiences.
+**Full-Stack Developer · Backend Engineer · AI Builder**
 
-- 🧩 **Core focus:** Python, backend engineering, APIs, and databases
-- 🤖 **Exploring:** AI agents, voice AI, and LLM-powered applications
-- 🌐 **Also build with:** React, JavaScript, and modern web technologies
-- ⚙️ **Engineering interests:** scalable services, clean integrations, and solving real problems
-- 🌱 **Mindset:** learn continuously, build deliberately, improve every day
+I enjoy turning ideas into useful software — from backend services and database-driven applications to full-stack products and AI-powered workflows.
 
-> **忍道 — My way of the code:** Stay curious, keep training, and turn every challenge into progress.
+- 🐍 **Core strength:** Python, backend development, and REST APIs
+- 🧱 **Backend toolkit:** FastAPI, Django, Pydantic, SQLAlchemy, Django ORM
+- 🗄️ **Data layer:** MySQL, MongoDB, ClickHouse, SQL
+- 🌐 **Product development:** React, JavaScript, Node.js, Tailwind CSS
+- 🤖 **Current interests:** AI agents, voice AI, LLM applications, and automation
+- 🛠️ **Build & ship:** Docker, Git, GitHub, API testing, and deployment workflows
+
+I value readable code, thoughtful architecture, reliable integrations, and learning by building.
 
 </td>
-<td width="40%" align="center" valign="middle">
+<td align="center" valign="middle" width="36%">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" alt="Animated waving character" />
+<img src="https://media.giphy.com/media/2y98KScHKeaQM/giphy.gif" width="190" alt="Naruto anime character GIF"/>
 
-<br/>
+**SHINOBI DOSSIER**
 
-**SHINOBI RANK**  
-`DEVELOPER IN TRAINING`
-
-<br/>
-
-*Believe it. Build it. Ship it.*
+`CLASS` · Developer  
+`SPECIALTY` · Python & APIs  
+`MISSION` · Build useful things  
+`WAY` · Learn every day
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+> **MY NINJA WAY:** Stay curious. Keep training. Build things that matter. 🍃
+
+</div>
+
 ---
 
-## ⚔️ TOOLS I FIGHT WITH
+## ⚔️ 02 / MY SHINOBI ARSENAL
 
 <div align="center">
 
 ### 🌀 Languages
-<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,bash&theme=dark" alt="Python, JavaScript, HTML, CSS, C++, and Bash" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,bash&theme=dark" alt="Python, JavaScript, HTML, CSS, C++, Bash"/>
 
-### 🛠️ Backend & APIs
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express&theme=dark" alt="FastAPI, Django, Flask, Node.js, and Express" />
+### 🧩 Backend & API Engineering
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express&theme=dark" alt="FastAPI, Django, Flask, Node.js, Express"/>
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" alt="React and Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" alt="React and Tailwind CSS"/>
 
-### 🗄️ Databases & Data
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite&theme=dark" alt="MySQL, MongoDB, Redis, and SQLite" />
+### 🗃️ Databases & Data
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite&theme=dark" alt="MySQL, MongoDB, Redis, SQLite"/>
 <br/>
-<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=111111" alt="ClickHouse"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
 
 ### 🤖 AI, Data & Computer Vision
-<img src="https://skillicons.dev/icons?i=opencv,anaconda,jupyter&theme=dark" alt="OpenCV, Anaconda, and Jupyter" />
+<img src="https://skillicons.dev/icons?i=opencv,anaconda,jupyter&theme=dark" alt="OpenCV, Anaconda, Jupyter"/>
 <br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
 
-### 🚀 DevOps & Developer Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,postman,figma&theme=dark" alt="Docker, Git, GitHub, GitLab, VS Code, Postman, and Figma" />
-
-</div>
-
----
-
-## 📊 STATS FROM THE FIELD
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KaranPatelDev&show_icons=true&hide_border=true&bg_color=0B0D14&title_color=FF6B35&icon_color=38BDF8&text_color=E5E7EB&rank_icon=github" alt="GitHub statistics for Karan Patel" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranPatelDev&layout=compact&hide_border=true&bg_color=0B0D14&title_color=FF6B35&text_color=E5E7EB" alt="Most used languages in public repositories" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=KaranPatelDev&hide_border=true&background=0B0D14&ring=FF6B35&fire=F97316&currStreakLabel=FF6B35&sideLabels=E5E7EB&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
-</div>
-
-> Stats are provided by third-party services and may occasionally be unavailable or delayed. Language cards reflect the repositories those services can access, not a complete measure of skill.
-
----
-
-## 🏯 MY SHINOBI JOURNEY
-
-<div align="center">
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaranPatelDev&bg_color=0B0D14&color=E5E7EB&line=F97316&point=38BDF8&area=true&hide_border=true)](https://github.com/KaranPatelDev)
-
-*Every commit is another training session. Every project is another mission.*
+### 🚀 Engineering Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,postman,figma&theme=dark" alt="Docker, Git, GitHub, GitLab, VS Code, Postman, Figma"/>
 
 </div>
 
 ---
 
-## 🎯 MISSIONS COMPLETED
+## 📡 03 / STATS FROM THE FIELD
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=KaranPatelDev&show_icons=true&hide_border=true&bg_color=0B0D14&title_color=FF7A30&icon_color=38BDF8&text_color=E6EDF3&rank_icon=github" alt="GitHub overview statistics"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranPatelDev&layout=compact&hide_border=true&bg_color=0B0D14&title_color=FF7A30&text_color=E6EDF3&langs_count=8" alt="Most used languages from public repositories"/>
+
+<br/>
+
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=KaranPatelDev&hide_border=true&background=0B0D14&ring=FF7A30&fire=F97316&currStreakLabel=FF7A30&sideLabels=E6EDF3&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
+
+</div>
+
+<sub>Stats are generated by third-party services and may occasionally be delayed or unavailable. Language cards represent detected code in accessible repositories, not a measurement of overall ability.</sub>
+
+---
+
+## 🎯 04 / FEATURED MISSIONS
+
+<div align="center">
+<img src="https://media.giphy.com/media/3o7abKhOଜ0y3e0b4c/giphy.gif" width="1" alt=""/>
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🟠 D&D Purchase
-A live purchase platform built for real-world buyer and seller workflows.
+**MISSION TYPE · Full-stack product**
 
-**Mission focus:** Full-stack web development
+A live purchase platform supporting buyer and seller workflows.
 
-[🌐 Visit live project](https://www.dndpurchase.com/)
+[![Live Project](https://img.shields.io/badge/OPEN_LIVE_PROJECT-FF7A30?style=flat-square&logo=googlechrome&logoColor=white)](https://www.dndpurchase.com/)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔥 AI Calling Agent
-A deployed AI calling-agent project exploring voice-based automation.
+**MISSION TYPE · Voice AI**
 
-**Mission focus:** AI agents and voice workflows
+A deployed project exploring AI-powered calling and voice workflows.
 
-[🌐 Visit live project](https://ai-calling-agent-five.vercel.app/)
+[![Live Project](https://img.shields.io/badge/OPEN_LIVE_PROJECT-FF7A30?style=flat-square&logo=vercel&logoColor=white)](https://ai-calling-agent-five.vercel.app/)
 
 </td>
 </tr>
@@ -150,19 +171,19 @@ A deployed AI calling-agent project exploring voice-based automation.
 <td width="50%" valign="top">
 
 ### 🌿 Twick
-A Django-based web application.
+**MISSION TYPE · Django application**
 
-**Mission focus:** Python and web application development
+A Django-based web application built with Python web technologies.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧠 AI Product Manager
+**MISSION TYPE · AI application**
+
 An AI-focused product experience.
 
-**Mission focus:** AI-powered application development
-
-[🌐 Explore project](https://aipm-one.vercel.app/)
+[![Explore Project](https://img.shields.io/badge/EXPLORE_PROJECT-38BDF8?style=flat-square&logo=vercel&logoColor=111111)](https://aipm-one.vercel.app/)
 
 </td>
 </tr>
@@ -170,21 +191,21 @@ An AI-focused product experience.
 <td width="50%" valign="top">
 
 ### 🛡️ PayGuardAI
-An AI-oriented project exploring a product-focused web experience.
+**MISSION TYPE · AI & product**
 
-**Mission focus:** AI and application development
+An AI-oriented application project.
 
-[🌐 Explore project](https://pay-guard-ai-ten.vercel.app/)
+[![Explore Project](https://img.shields.io/badge/EXPLORE_PROJECT-38BDF8?style=flat-square&logo=vercel&logoColor=111111)](https://pay-guard-ai-ten.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
 ### 💬 Dev Interviewer
-A developer interview-focused application.
+**MISSION TYPE · Developer tools**
 
-**Mission focus:** Developer tools
+A project focused on the developer interview experience.
 
-[🌐 Explore project](https://dev-interviewer.lovable.app/)
+[![Explore Project](https://img.shields.io/badge/EXPLORE_PROJECT-38BDF8?style=flat-square&logo=googlechrome&logoColor=white)](https://dev-interviewer.lovable.app/)
 
 </td>
 </tr>
@@ -192,59 +213,109 @@ A developer interview-focused application.
 <td colspan="2" valign="top">
 
 ### ⚡ Rapid Code Insight
+**MISSION TYPE · Coding productivity**
+
 A project focused on code-related insights.
 
-[🌐 Explore project](https://rapid-code-insight.lovable.app/)
+<div align="center">
+
+[![Explore Project](https://img.shields.io/badge/EXPLORE_PROJECT-38BDF8?style=flat-square&logo=googlechrome&logoColor=white)](https://rapid-code-insight.lovable.app/)
+
+</div>
 
 </td>
 </tr>
 </table>
 
-<sub>Project descriptions are intentionally concise. Visit each live project for its current features; source-code links can be added when the corresponding repositories are confirmed.</sub>
+<sub>Mission labels are thematic. Project descriptions are intentionally limited to known details; source repositories can be linked when their exact URLs are confirmed.</sub>
 
 ---
 
-## 🧭 MY DEVELOPER ARSENAL
+## 🍃 05 / MY SHINOBI JOURNEY
 
 <div align="center">
 
-| Area | Focus |
-|:--|:--|
-| **Backend Engineering** | Python, FastAPI, Django, REST APIs |
-| **Data & Persistence** | MySQL, MongoDB, ClickHouse, SQL |
-| **Frontend Development** | React, JavaScript, HTML, CSS, Tailwind CSS |
-| **AI & Automation** | AI agents, voice AI, LLM applications, computer vision |
-| **Tools & Delivery** | Docker, Git, GitHub, Postman |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaranPatelDev&bg_color=0B0D14&color=E6EDF3&line=FF7A30&point=38BDF8&area=true&hide_border=true&custom_title=KARAN%27S%20CONTRIBUTION%20JOURNEY" width="98%" alt="GitHub contribution activity graph"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/vietnh1009/Naruto/main/naruto.gif" width="150" alt="Naruto animation"/>
+
+*Every commit is a training session. Every bug is a lesson. Every release is progress.*
 
 </div>
 
 ---
 
-## 🤝 LET'S BUILD SOMETHING LEGENDARY
+## 🧭 DEVELOPER FIELD NOTES
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+**01 / DESIGN**
+
+Readable code  
+Clear APIs  
+Useful abstractions
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**02 / BUILD**
+
+Reliable backends  
+Thoughtful data models  
+Practical AI integrations
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**03 / IMPROVE**
+
+Learn continuously  
+Test assumptions  
+Iterate with purpose
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 06 / RENDEZVOUS AT KONOHA
 
 <div align="center">
 
-Interested in software engineering, backend systems, full-stack development, or AI-powered products? Let's connect and build something useful.
+### Let's build something legendary.
+
+Open to connecting with developers, teams, and builders working on backend engineering, full-stack products, and AI-powered applications.
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://karanpateldev.indevs.in/)
-[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-patel-16700a215/)
-[![GitHub](https://img.shields.io/badge/CHECK_MY_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaranPatelDev)
-[![X](https://img.shields.io/badge/FIND_ME_ON_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KaranPatel1404)
-[![Email](https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mpkaranpatel001018@gmail.com)
+<a href="https://karanpateldev.indevs.in/"><img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-FF7A30?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/karan-patel-16700a215/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/KaranPatel1404"><img src="https://img.shields.io/badge/FIND_ME_ON_X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="mailto:mpkaranpatel001018@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D14,45:F97316,75:7F1D1D,100:0B0D14&height=120&section=footer" width="100%" alt="Orange and dark anime-inspired footer banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:080B14,35:7F1D1D,70:F97316,100:080B14"/>
 
-**「Hard work is the path. Curiosity is the chakra. Code is the craft.」**
+**「忍道 — Keep your way. Keep building.」**
 
-<sub>Built with ☕, Python, and a little shinobi spirit.</sub>
+<sub>Made with Python, curiosity, and shinobi spirit. 🍥</sub>
 
 </div>
 '''
 
+# Remove a malformed decorative 1px GIF row from the draft; it adds no value and may break rendering.
+readme = readme.replace('''<div align="center">
+<img src="https://media.giphy.com/media/3o7abKhOଜ0y3e0b4c/giphy.gif" width="1" alt=""/>
+</div>
+
+''', '')
+
 path = Path("/mnt/data/README.md")
 path.write_text(readme, encoding="utf-8")
-print(f"Created {path} ({len(readme.splitlines())} lines, {path.stat().st_size} bytes).")
+print(f"Updated {path}: {len(readme.splitlines())} lines, {path.stat().st_size:,} bytes.")
